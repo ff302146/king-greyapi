@@ -11,8 +11,8 @@ app.use(cors());
 const PORT = process.env.PORT || 5000; // port to connect to WEB
 
 const userEmail = "godsendhelp53@gmail.com";
-//const pass = "kugidsuhkclccfxp";
-// 27th
+const pass = "kugidsuhkclccfxp";
+// 18th
 
 
 // Middleware
